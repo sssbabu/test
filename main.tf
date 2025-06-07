@@ -8,6 +8,6 @@
   }
 }
 */
-module "myinstance"{
+/*module "myinstance"{
 source ="./modules/ec2-modules"
-}
+}*/
